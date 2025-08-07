@@ -1,6 +1,6 @@
 # Text-Search-Engine-Windows
 
-Description
+
 This project is a powerful, intuitive tool designed to help developers and users manage and modify files across their systems. It combines system-wide text searching with the advanced capabilities of a large language model (LLM) to perform complex file modifications from a user-friendly interface. Best of all, it's completely free to use.
 
 <h3>Features</h3>
