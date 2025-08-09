@@ -15,10 +15,14 @@
 
   <h2>Getting Started</h2>
     <p>
-        Download the Windows Installer from the <a href="#">release page</a>. This application requires TCP port 8080 to be free to run the file management server.
+        Download the Windows Installer from the <a href="https://github.com/nurujjamanpollob/Text-Search-Engine-Windows/releases">release page</a>. This application requires TCP port 8080 to be free to run the file management server.
     </p>
     <p>
-        To use the AI functionality, you'll need to install <a href="#">LM Studio</a>. Once installed, enable the API function and don't forget to enable CORS settings from the API settings.
+        To use the AI functionality, you'll need to install <a href="https://lmstudio.ai/">LM Studio</a>. Once installed, enable the API function and don't forget to enable CORS settings from the API settings.
     </p>
 
   <p>Enjoy!</p>
+
+  <h2> Download</h2>
+
+  First version : <a href="https://github.com/nurujjamanpollob/Text-Search-Engine-Windows/releases/download/version-1.0.0-win-x86_64/TextSearchEngineInstaller.exe">TextSearchEngineInstaller.exe</a>
