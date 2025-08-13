@@ -23,6 +23,22 @@
 
   <p>Enjoy!</p>
 
+  <h2>Version Log</h2>
+
+  First Version: 
+  
+  <ul><li>Stable release.</li></ul>
+  
+  Version 1.1[beta]: 
+  
+  <ul>
+   <li>50-100x search Speed boost[beta]</li>
+   <li>Search Session Restore functionality[Beta]</li>
+   <li>Fix Windows Installer, now uninstaller clears all directories </li>
+   <li>File Management server stop function[beta]</li>
+  </ul>
+  
   <h2> Download</h2>
 
-  First version : <a href="https://github.com/nurujjamanpollob/Text-Search-Engine-Windows/releases/download/version-1.0.0-win-x86_64/TextSearchEngineInstaller.exe">TextSearchEngineInstaller.exe</a>
+  First version : <a href="https://github.com/nurujjamanpollob/Text-Search-Engine-Windows/releases/download/version-1.0.0-win-x86_64/TextSearchEngineInstaller.exe">TextSearchEngineInstaller V 1.0.exe</a> <br><br>
+  Version 1.1[beta] : <a href="https://github.com/nurujjamanpollob/Text-Search-Engine-Windows/releases/download/version-1.1-win-x86_64/TextSearchEngineInstaller.exe">TextSearchEngineInstaller V 1.1.exe</a>
