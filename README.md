@@ -76,6 +76,6 @@ Plus, New Improvements:
   First version : <a href="https://github.com/nurujjamanpollob/Text-Search-Engine-Windows/releases/download/version-1.0.0-win-x86_64/TextSearchEngineInstaller.exe">TextSearchEngineInstaller V 1.0.exe</a> <br><br>
   Version 1.1[beta] : <a href="https://github.com/nurujjamanpollob/Text-Search-Engine-Windows/releases/download/version-1.1-win-x86_64/TextSearchEngineInstaller.exe">TextSearchEngineInstaller V 1.1.exe</a>
   
-  Version 2.0[beta] : <a href="https://github.com/nurujjamanpollob/Text-Search-Engine-Windows/releases/download/version-1.1-win-x86_64/TextSearchEngineInstaller.exe">TextSearchEngineInstaller V 1.1.exe</a>
+  Version 2.0[beta] : <a href="https://github.com/nurujjamanpollob/Text-Search-Engine-Windows/releases/download/version-1.1-win-x86_64/TextSearchEngineInstaller.exe">TextSearchEngineInstaller V 2.0.exe</a>
 
   
