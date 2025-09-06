@@ -20,30 +20,32 @@
         Download the Windows Installer from the <a href="https://github.com/nurujjamanpollob/Text-Search-Engine-Windows/releases">release page</a>. This application requires TCP port 8080 to be free to run the file management server.
     </p>
     <p>
-        To use the AI functionality, you'll need to install <a href="https://lmstudio.ai/">LM Studio</a>. Once installed, enable the API function and don't forget to enable CORS settings from the API settings.
-    </p>
+
+   <h2> Using AI function </h2>
+
+ This application supports custom OpenAI-like endpoint. You need to configure the endpoint from the AI settings page. 
+ The custom OpenAI endpoint implementation tested working with LM studio. If you use LM Studio as an AI provider, follow below instruction for easy configuration:
+
+ <b>For Version 2.0</b>
+
+ You'll need to have LM Studio installed. Link here: <a href="https://lmstudio.ai/">LM Studio</a>. Once installed, download your favorite AI model. Then close LM studio, 
+ and launch the Eaze Text Editor. After opening, wait for 3-4 seconds to let the system detect LM studio integration. Once detected, A pop-up will appear, so enable LM studio integration. 
+ Once you enable integration and you will also be asked to set a Custom OpenAI endpoint automatically to connect with the LM studio's provided custom OpenAI endpoint.
+ Hit "Yes" and you will have a working LM studio integration out of the box!
+
+  <b>For Version 1.1 beta and earlier</b>
+     
+  You'll need to have LM Studio installed. Link here: <a href="https://lmstudio.ai/">LM Studio</a>. Once installed, download your favorite AI model, and then enable the API function from LM studio settings, and don't forget to enable CORS settings from the API settings.
+  As this is an old version, it doesn't have any integration with LM studio, you have to open and close the AI service manually from the LM studio software.
+  </p>
 
   <p>Enjoy!</p>
 
   <h2>Version Log</h2>
 
-  First Version: 
-  
-  <ul><li>Stable release.</li></ul>
-  
-  Version 1.1[beta]: 
-  
-  <ul>
-   <li>50-100x search Speed boost[beta]</li>
-   <li>Search Session Restore functionality[Beta]</li>
-   <li>Fix Windows Installer, now uninstaller clears all directories </li>
-   <li>File Management server stop function[beta]</li>
-  </ul>
+ Version 2.0[beta]
 
-  Version 2.0[beta]
-
-
-All previous improvements from version 1.1 [https://github.com/nurujjamanpollob/Text-Search-Engine-Windows/releases/tag/version-1.1-win-x86_64](url)
+All previous improvements from version 1.1[beta]
 
 Plus, New Improvements: 
   
@@ -70,6 +72,20 @@ Plus, New Improvements:
   <li> Train AI on Codebase for better code suggestion functionality </li>
   <li> Release for more platforms: Mac and Linux</li>
   </ul>
+
+
+   Version 1.1[beta]: 
+  
+  <ul>
+   <li>50-100x search Speed boost[beta]</li>
+   <li>Search Session Restore functionality[Beta]</li>
+   <li>Fix Windows Installer, now uninstaller clears all directories </li>
+   <li>File Management server stop function[beta]</li>
+  </ul>
+
+  First Version: 
+  
+  <ul><li>Stable release.</li></ul>
   
   <h2> Download</h2>
 
