@@ -17,8 +17,10 @@
 
   <h2>Getting Started</h2>
     <p>
-        Download the Windows Installer from the <a href="https://github.com/nurujjamanpollob/Text-Search-Engine-Windows/releases">release page</a>. This application requires TCP port 8080 to be free to run the file management server.
-    </p>
+
+   Note: if you are upgrading from version 1.0 or 1.1 to 2.0 beta, uninstall any previous version installed.
+        Download the Windows Installer from the <a href="https://github.com/nurujjamanpollob/Text-Search-Engine-Windows/releases">release page</a>. This application requires TCP port 8080 to be free to run the file management server. 
+   </p>
     <p>
 
    <h2> Using AI function </h2>
